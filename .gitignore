@@ -2,4 +2,5 @@ entry.h
 .vscode
 *.o
 a
-compiler_flags.txt
+compile_flags.txt
+main.c
